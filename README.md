@@ -1,2 +1,29 @@
-# hoornbrekerstraat-kliniek-genocide
+------------------------------
+| hoornbrekerstraat-genocide |
+------------------------------
+
 2002-2021
+
+# municipal health service
+https://en.wikipedia.org/wiki/Municipal_Health_Service
+
+# huisartsenpost
+https://nl.wikipedia.org/wiki/Huisartsenpost
+
+# fentanyl
+https://en.wikipedia.org/wiki/Fentanyl
+
+# heroine
+https://nl.wikipedia.org/wiki/Hero%C3%AFne
+
+# poisening
+https://en.wikipedia.org/wiki/Poisoning
+
+# gaschamber
+https://nl.wikipedia.org/wiki/Gaskamer
+
+# genocide
+https://en.wikipedia.org/wiki/Genocide
+
+# erasmusbrug
+https://nl.wikipedia.org/wiki/Erasmusbrug
